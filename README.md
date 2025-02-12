@@ -11,19 +11,19 @@ FitLog is a mobile application designed to empower users to lead healthier lives
 This project focuses on designing an intuitive and engaging user interface based on provided wireframes.
 
 ## Design Goals
-User-Centric Experience: Clean and easy-to-navigate UI.
-Engaging Visuals: Use of vibrant colors and friendly illustrations.
-Intuitive Interaction: Simple and effective navigation flow.
-Consistency: Uniform design elements for a seamless experience.
+- **User-Centric Experience**: Clean and easy-to-navigate UI.
+- **Engaging Visuals**: Use of vibrant colors and friendly illustrations.
+- **Intuitive Interaction**: Simple and effective navigation flow.
+- **Consistency**: Uniform design elements for a seamless experience.
 
 ## Tools Used
 Figma - For designing wireframes and prototypes.
 
 ## Key Features
-Daily Habit Tracking: Log water intake, sleep, and exercise.
-Progress Visualization: Graphs and statistics to monitor progress.
-Custom Reminders: Personalized notifications for healthy habits.
-User-Friendly Interface: Easy-to-use UI designed for all age groups.
+- **Daily Habit Tracking**: Log water intake, sleep, and exercise.
+- **Progress Visualization**: Graphs and statistics to monitor progress.
+- **Custom Reminders**: Personalized notifications for healthy habits.
+- **User-Friendly Interface**: Easy-to-use UI designed for all age groups.
 
 ## Getting Started
 1. **Clone the repository**:
