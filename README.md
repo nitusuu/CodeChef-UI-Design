@@ -1,10 +1,10 @@
 ﻿# CodeChef-UI-Design
-# FitLog UI Design
+# HealthTrack UI Design
 
 Designing the user interface for a mobile health app that helps users track daily health habits like water intake, sleep, and exercise.
 
 #Project Overview
-FitLog is a mobile application designed to empower users to lead healthier lives by tracking their daily habits. The app focuses on:
+HealthTrack is a mobile application designed to empower users to lead healthier lives by tracking their daily habits. The app focuses on:
 1. **Water Intake**: Reminders and logs to stay hydrated.
 2. **Sleep Tracking**: Monitor sleep duration and quality.
 3. **Exercise Tracking**: Log daily physical activity and set fitness goals.
