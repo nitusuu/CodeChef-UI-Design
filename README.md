@@ -34,10 +34,7 @@ Figma - For designing wireframes and prototypes.
 3. Start Designing: Follow the wireframes and enhance the UI.
 
 ## Prerequisites
-
 - Color Theory
-- Typography
-- Wireframing
 - UI Design Tools
 - Consistency and minimalism
 
